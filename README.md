@@ -1,7 +1,6 @@
 # Hello, I'm Joshua Oberg
 <a href="https://www.linkedin.com/in/joshuaoberg/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
 Security engineer with 26 years of experience in IT administration and 10 years designing, implementing, and continuously improving technical security controls across cloud, on-premises, endpoint, and network environments. Deep expertise translating regulatory frameworks including NIST 800-53/171, NIST RMF, and federal compliance requirements into practical, scalable controls embedded within real operating systems. Leverages AI-assisted tools to accelerate threat hunting, enhance log analysis workflows, and streamline security automation and scripting. Proven ability to lead risk assessment processes, own security programs end-to-end, and collaborate across engineering, IT, and operations in fast-moving environments. Thrives on hands-on work, self-direction, and building security infrastructure that enables teams to move fast without compromising posture.
 
