@@ -12,12 +12,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation and Log Analysis          | |
+| Network Traffic Monitoring and Attack Detection | |
+| Security Automation with Shuffle SOAR         | |
+| Incident Response Planning and Execution      | |
+| Case Management with TheHive                  | |
+| Scripting and Automation for Threat Mitigation | |
 
 ## Certifications
 <div>
@@ -32,6 +32,28 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ## Projects
 - Detection Lab
 - SOC Automation Project
+
+## Skills Demonstrated
+
+```
+Offensive       →  Penetration testing, web & API security, manual exploitation,
+                   hash cracking, firewall evasion, BOLA/BFLA, XSS, SQLi
+
+Defensive       →  Log analysis, alert triage, pcap analysis, threat hunting,
+                   OS hardening, firewall management, C2 detection
+
+Tooling         →  Burp Suite, OWASP ZAP, Nmap, Nessus, Wireshark,
+                   Metasploit, John the Ripper, Splunk, UFW, fail2ban
+
+Programming     →  Python (socket, threading, CLI), Bash (automation, hardening)
+
+API Security    →  OWASP API Top 10, authentication testing, Postman, curl
+
+GRC             →  ISO/IEC 27001, PCI-DSS awareness, risk assessment,
+                   technical report writing
+```
+
+---
 
 ## Tools
 
@@ -65,5 +87,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     
 
 </div>
+---
 
+## Legal Disclaimer
+
+All tools and techniques documented in this repository are for **authorised and educational use only**. Only test systems you own or have explicit written permission to assess. Unauthorised scanning or exploitation is illegal.
+
+---
 
